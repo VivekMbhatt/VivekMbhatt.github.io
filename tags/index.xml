@@ -1,95 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on VIVEK MOHAN</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on VIVEK MOHAN</description>
-    <generator>Hugo</generator>
+    <title>Tags on Vivek Mohan</title>
+    <link>https://VivekMbhatt.github.io/tags/</link>
+    <description>Recent content in Tags on Vivek Mohan</description>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Asian</title>
-      <link>https://example.org/tags/asian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/asian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bundle</title>
-      <link>https://example.org/tags/bundle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/bundle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drawing</title>
-      <link>https://example.org/tags/drawing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/drawing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Foie Gras</title>
-      <link>https://example.org/tags/foie-gras/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/foie-gras/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Human</title>
-      <link>https://example.org/tags/human/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/human/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>https://example.org/tags/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pho</title>
-      <link>https://example.org/tags/pho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/pho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Salad</title>
-      <link>https://example.org/tags/salad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/salad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Seafood</title>
-      <link>https://example.org/tags/seafood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/seafood/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simple</title>
-      <link>https://example.org/tags/simple/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/simple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soup</title>
-      <link>https://example.org/tags/soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/soup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Western</title>
-      <link>https://example.org/tags/western/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/western/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://VivekMbhatt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
